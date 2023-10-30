@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b9fa643-2275-4d27-a84b-05e19b93138f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Players/healers/tools/Elixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/healers/tools/Elixer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Players/healers/tools/Potion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/healers/tools/Potion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlayerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
