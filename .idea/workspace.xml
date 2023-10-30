@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b9fa643-2275-4d27-a84b-05e19b93138f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Players/healers/Cleric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/healers/Cleric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Players/mages/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/mages/Mage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Players/mages/Warlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/mages/Warlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Players/mages/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/mages/Wizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Players/mages/beasts/DireWolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/mages/beasts/DireWolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Players/mages/beasts/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/mages/beasts/Dragon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Players/mages/beasts/Kraken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/mages/beasts/Kraken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Players/mages/spells/Earthquake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/mages/spells/Earthquake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Players/mages/spells/Fireball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/mages/spells/Fireball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Players/mages/spells/IceBlast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/mages/spells/IceBlast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Players/mages/spells/LighteningStrike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/mages/spells/LighteningStrike.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
