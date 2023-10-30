@@ -1,4 +1,10 @@
 package Players.mages.spells;
 
-public class IceBlast {
+import Interfaces.ISpell;
+
+public class IceBlast implements ISpell {
+    @Override
+    public int cast() {
+        return 0;
+    }
 }

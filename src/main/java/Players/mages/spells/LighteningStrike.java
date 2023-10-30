@@ -1,4 +1,10 @@
 package Players.mages.spells;
 
-public class LighteningStrike {
+import Interfaces.ISpell;
+
+public class LighteningStrike implements ISpell {
+    @Override
+    public int cast() {
+        return 0;
+    }
 }

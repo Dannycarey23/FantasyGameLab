@@ -5,6 +5,10 @@ public class Wizard extends Mage{
         super(name, hp);
     }
 
+    public String catchPhrase(){
+        return "You shall not pass!";
+    }
+
     @Override
     public int defend() {
         return 0;

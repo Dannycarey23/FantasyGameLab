@@ -1,4 +1,10 @@
 package Players.mages.spells;
 
-public class Earthquake {
+import Interfaces.ISpell;
+
+public class Earthquake implements ISpell {
+    @Override
+    public int cast() {
+        return 0;
+    }
 }

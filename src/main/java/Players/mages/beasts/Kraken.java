@@ -1,4 +1,10 @@
 package Players.mages.beasts;
 
-public class Kraken {
+import Interfaces.IDefend;
+
+public class Kraken implements IDefend {
+    @Override
+    public int defend() {
+        return 0;
+    }
 }
