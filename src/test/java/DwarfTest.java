@@ -1,16 +1,18 @@
 import Interfaces.IWeapon;
 import Players.fighters.Dwarf;
-import Players.fighters.weapons.Axe;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class DwarfTests {
+public class DwarfTest {
     Dwarf dwarf;
+    IWeapon axe;
+    IWeapon club;
+    IWeapon sword;
     @Before
     public void before(){
-        IWeapon Axe = null;
+
         dwarf = new Dwarf("Gimli", 100, Axe);
     }
 

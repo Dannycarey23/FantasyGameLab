@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b9fa643-2275-4d27-a84b-05e19b93138f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Players/fighters/Dwarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/fighters/Dwarf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Players/fighters/Fighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Players/fighters/Fighter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DwarfTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DwarfTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ClericTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ClericTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DwarfTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DwarfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EnemyTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WarlockTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WarlockTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +53,20 @@
     "last_opened_file_path": "/Users/Danny/Desktop/G38/codeclan_work/week13/FantasyGameLabbbb"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="DwarfTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.OrcTest">
+    <configuration name="DwarfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FantasyGameLab" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DwarfTests" />
+      <option name="MAIN_CLASS_NAME" value="DwarfTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FantasyGameLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrcTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OrcTest" />
         <item itemvalue="JUnit.DwarfTests" />
       </list>
     </recent_temporary>
