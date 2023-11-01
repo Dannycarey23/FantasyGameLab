@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b9fa643-2275-4d27-a84b-05e19b93138f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/WarlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WarlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ClericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ClericTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,16 @@
     "last_opened_file_path": "/Users/Danny/Desktop/G38/codeclan_work/week13/FantasyGameLabbbb"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.WarlockTest">
+  <component name="RunManager" selected="JUnit.ClericTest">
+    <configuration name="ClericTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FantasyGameLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClericTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DwarfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FantasyGameLab" />
       <option name="PACKAGE_NAME" value="" />
@@ -80,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ClericTest" />
         <item itemvalue="JUnit.WarlockTest" />
         <item itemvalue="JUnit.DwarfTests" />
         <item itemvalue="JUnit.OrcTest" />
