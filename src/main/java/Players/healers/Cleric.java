@@ -1,9 +1,10 @@
 package Players.healers;
 
 import Interfaces.IHeal;
+import Players.Player;
 import Players.fighters.Fighter;
 
-public class Cleric extends Fighter {
+public class Cleric extends Player {
 
     private IHeal tool;
 
