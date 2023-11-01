@@ -13,11 +13,22 @@ public class DwarfTest {
     @Before
     public void before(){
 
-        dwarf = new Dwarf("Gimli", 100, Axe);
+        dwarf = new Dwarf("Gimli", 100, axe);
     }
 
     @Test
     public void dwarfHasName(){
         assertEquals("Gimli", dwarf.getName());
     }
+
+    @Test
+    public void dwarfHasHP(){
+        assertEquals(100, dwarf.getHp());
+    }
+
+    @Test
+    public void dwarfHasWeapon(){
+        assertEquals(axe, dwarf.getWeapon());
+    }
+
 }
