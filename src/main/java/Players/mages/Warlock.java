@@ -1,21 +1,15 @@
 package Players.mages;
 
+import Interfaces.IDefend;
+import Interfaces.ISpell;
+
 public class Warlock extends Mage{
-    public Warlock(String name, int hp) {
-        super(name, hp);
+    public Warlock(String name, int hp, IDefend beast, ISpell spell) {
+        super(name, hp, beast, spell);
     }
 
     public String catchPhrase(){
         return "I see dead people...";
     }
 
-    @Override
-    public int defend() {
-        return 0;
-    }
-
-    @Override
-    public int cast() {
-        return 0;
-    }
 }
